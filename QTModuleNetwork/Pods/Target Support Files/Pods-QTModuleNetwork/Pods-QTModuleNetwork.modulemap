@@ -1,0 +1,6 @@
+framework module Pods_QTModuleNetwork {
+  umbrella header "Pods-QTModuleNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.m \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Build/Intermediates/Pods.build/Debug-iphonesimulator/ReactiveObjC.build/module.modulemap \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/Target\ Support\ Files/ReactiveObjC/ReactiveObjC-prefix.pch \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSignal+Operations.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSignal.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACAnnotations.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACStream.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDeallocating.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/NSObject+RACDescription.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACBlockTrampoline.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACCommand.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACCompoundDisposable.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACDisposable.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACEvent.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACGroupedSignal.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSubject.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSubscriber.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACMulticastConnection+Private.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACMulticastConnection.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACReplaySubject.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACScheduler.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSerialDisposable.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSignalSequence.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSequence.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACStream+Private.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACSubscriber+Private.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACTuple.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/extobjc/RACmetamacros.h \
+  /Users/zhoupengkai/Desktop/Module/SeptnetModules/SeptnetNetwork/QTModuleNetwork/QTModuleNetwork/Pods/ReactiveObjC/ReactiveObjC/RACUnit.h
