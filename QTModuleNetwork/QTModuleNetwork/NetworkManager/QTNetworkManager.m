@@ -11,6 +11,11 @@
 
 @implementation QTNetworkManager
 
+#pragma mark pod 更新测试
++(void)updateTest{
+    NSLog(@"updateTest");
+}
+
 #pragma mark - get 请求
 +(void)requestGetWithUrl:(NSString*)url Headers:(NSDictionary*)headers success:(void (^)(id response))success fail:(void (^)(NSError *error))fail{
     

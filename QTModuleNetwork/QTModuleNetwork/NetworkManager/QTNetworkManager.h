@@ -11,6 +11,9 @@
 
 @interface QTNetworkManager : NSObject
 
+#pragma mark pod 更新测试
++(void)updateTest;
+
 #pragma mark get 请求
 /**
  * get 请求
